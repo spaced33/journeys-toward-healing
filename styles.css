@@ -70,9 +70,7 @@ footer{padding:40px 7vw;background:#20221f;color:white;display:grid;grid-templat
 .garden-photo{position:absolute;right:7%;top:62px;width:52%;max-width:470px;aspect-ratio:1.18/1;border-radius:48% 48% 42% 42%;overflow:hidden;border:7px solid rgba(247,243,236,.72);box-shadow:0 20px 45px rgba(28,58,39,.22);transform:rotate(2deg);z-index:3}
 .garden-photo img{width:100%;height:100%;object-fit:cover;display:block}
 .garden-photo:after{content:"";position:absolute;inset:0;background:linear-gradient(135deg,rgba(42,91,58,.08),rgba(255,255,255,.02) 50%,rgba(28,58,39,.15));pointer-events:none}
-.growth-photo{position:absolute;left:7vw;right:7vw;top:38px;height:190px;overflow:hidden;border-radius:4px;opacity:.96;box-shadow:0 14px 32px rgba(45,63,43,.13)}
-.growth-photo img{width:100%;height:100%;object-fit:cover;object-position:center 52%;display:block}
-.journey{padding-top:265px;background:linear-gradient(180deg,#f1f5ed 0%,#fbfaf6 38%)}
+.journey{padding-top:105px;background:linear-gradient(180deg,#f1f5ed 0%,#fbfaf6 38%)}
 .footer-brand{display:flex;align-items:center;gap:14px}.footer-brand img{width:64px;height:64px;object-fit:cover;border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,.15)}
-@media(max-width:850px){.garden-photo{right:7%;top:35px;width:62%;max-width:none}.growth-photo{left:6vw;right:6vw;height:155px}.journey{padding-top:225px}}
-@media(max-width:560px){.garden-photo{right:7%;top:28px;width:76%;height:auto;aspect-ratio:1.15/1}.garden-caption{z-index:4;text-shadow:0 1px 4px rgba(0,0,0,.4)}.growth-photo{position:relative;left:auto;right:auto;top:auto;margin:-25px 0 40px;height:145px}.journey{padding-top:75px}.footer-brand{align-items:flex-start}.footer-brand img{width:54px;height:54px}}
+@media(max-width:850px){.garden-photo{right:7%;top:35px;width:62%;max-width:none}.journey{padding-top:105px}}
+@media(max-width:560px){.garden-photo{right:7%;top:28px;width:76%;height:auto;aspect-ratio:1.15/1}.garden-caption{z-index:4;text-shadow:0 1px 4px rgba(0,0,0,.4)}.journey{padding-top:75px}.footer-brand{align-items:flex-start}.footer-brand img{width:54px;height:54px}}
