@@ -20,3 +20,9 @@ For a future business email, update the email field when the new address is read
 The site currently uses the business Gmail address and phone number provided for the practice. Psychology Today, Headway, Alma, and Villa Health are intentionally left inactive until the individual profile URLs are available.
 
 The copy intentionally describes psychedelic-assisted therapy as training/background rather than advertising it as a service. Before publishing, review all clinical, licensure, privacy, telehealth, platform, and advertising language for your current jurisdiction and actual services.
+
+
+Version 6 updates:
+- Primary business email is now toni@journeystowardhealing.com.
+- Healing Garden palette shifted toward richer greens and a lusher botanical feel.
+- Removed internal placeholder language from the Resources section.
